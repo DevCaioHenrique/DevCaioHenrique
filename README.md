@@ -20,11 +20,18 @@ No momento, o único sobrevivente público por aqui é o **[Ghost](https://githu
 
 ---
 
-### 📊 Estatísticas Reais (Sem filtro)
-
 <div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="GitHub Streak Snake" src="https://githubusercontent.com">
+  </picture>
 </div>
 
-*Nota: Ativei a contagem de commits privados nos gráficos acima, assim o GitHub computa todo o trabalho pesado que fiz nos bastidores ao longo do ano.* 😉
+---
+
+### 📊 Meu Gráfico de Atividade (3D)
+
+<div align="center">
+  <img src="https://vercel.app" alt="Gráfico 3D" />
+</div>
