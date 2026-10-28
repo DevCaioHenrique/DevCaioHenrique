@@ -30,8 +30,8 @@ No momento, o único sobrevivente público por aqui é o **[Ghost](https://githu
 
 ---
 
-### 📊 Meu Gráfico de Atividade (3D)
+### 📈 Minhas Atividades Recentes
 
 <div align="center">
-  <img src="https://vercel.app" alt="Gráfico 3D" />
+  <img src="https://vercel.app" alt="Gráfico de Atividade" width="100%" />
 </div>
