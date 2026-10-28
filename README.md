@@ -1,16 +1,30 @@
-## Hi there 👋
+# Seja bem-vindo 👋
 
-<!--
-**DevCaioHenrique/DevCaioHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu canto no GitHub. Se você veio aqui esperando dezenas de repositórios públicos, chegou na época errada. 
 
-Here are some ideas to get you started:
+Passei o último ano acumulando códigos aleatórios, scripts temporários e arquivos que eu só salvei para não perder. Recentemente, chutei o balde, joguei tudo isso no privado para limpar a bagunça e agora estou começando projetos de verdade, do zero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗️ O Projeto Atual
+No momento, o único sobrevivente público por aqui é o **[Ghost](https://github.com/DevCaioHenrique/Ghost)**. 
+* É um arquivo pessoal local (Flask + SQLite) que funciona como um CRM e grafo de conhecimento para mapear dados e relacionamentos.
+* Roda localmente direto na máquina e o código está purificado (sem as tralhas do ano passado).
+
+---
+
+### 🧠 Modus Operandi
+* 🗑️ **Fase Atual:** Faxina concluída. O que era "porcaria útil" foi guardado no armário (privado).
+* 🕒 **Produtividade:** Funciona melhor na madrugada, quando o compilador não inventa erros novos.
+* 🛠️ **Ferramentas de sobrevivência:** Basicamente focado em ecossistemas Python e PHP.
+
+---
+
+### 📊 Estatísticas Reais (Sem filtro)
+
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
+</div>
+
+*Nota: Ativei a contagem de commits privados nos gráficos acima, assim o GitHub computa todo o trabalho pesado que fiz nos bastidores ao longo do ano.* 😉
