@@ -17,21 +17,3 @@ No momento, o único sobrevivente público por aqui é o **[Ghost](https://githu
 * 🗑️ **Fase Atual:** Faxina concluída. O que era "porcaria útil" foi guardado no armário (privado).
 * 🕒 **Produtividade:** Funciona melhor na madrugada, quando o compilador não inventa erros novos.
 * 🛠️ **Ferramentas de sobrevivência:** Basicamente focado em ecossistemas Python e PHP.
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Streak Snake" src="https://githubusercontent.com">
-  </picture>
-</div>
-
----
-
-### 📈 Minhas Atividades Recentes
-
-<div align="center">
-  <img src="https://vercel.app" alt="Gráfico de Atividade" width="100%" />
-</div>
