@@ -6,13 +6,6 @@ Passei o último ano acumulando códigos aleatórios, scripts temporários e arq
 
 ---
 
-### 🏗️ O Projeto Atual
-No momento, o único sobrevivente público por aqui é o **[Ghost](https://github.com/DevCaioHenrique/Ghost)**. 
-* É um arquivo pessoal local (Flask + SQLite) que funciona como um CRM e grafo de conhecimento para mapear dados e relacionamentos.
-* Roda localmente direto na máquina e o código está purificado (sem as tralhas do ano passado).
-
----
-
 ### 🧠 Modus Operandi
 * 🗑️ **Fase Atual:** Faxina concluída. O que era "porcaria útil" foi guardado no armário (privado).
 * 🕒 **Produtividade:** Funciona melhor na madrugada, quando o compilador não inventa erros novos.
